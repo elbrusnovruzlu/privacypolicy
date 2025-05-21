@@ -1,7 +1,7 @@
 Privacy Policy Effective Date: 01.02.2025
 
 1. Introduction 
-Noosh ("we," "our," "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our food recipe application (the "App"). By using the App, you consent to the practices described in this Privacy Policy.
+Bish-Dish ("we," "our," "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our food recipe application (the "App"). By using the App, you consent to the practices described in this Privacy Policy.
 
 2. Information We Collect
 Right now we do not collect any types of information:
@@ -41,4 +41,4 @@ We may update this Privacy Policy from time to time. We encourage you to review 
 
 10. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-noreply.noosh@gmail.com
+bishdish.app@gmail.com
